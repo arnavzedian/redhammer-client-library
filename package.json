@@ -1,6 +1,6 @@
 {
   "name": "yaa.one",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Client library for yaa.one",
   "main": "index.js",
   "scripts": {
